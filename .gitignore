@@ -1,0 +1,7 @@
+Backups
+NETCompile.bat
+.vs
+Templates/NET/Bin
+Source/NET/.vs
+Source/NET/Bin
+*.cache

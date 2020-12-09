@@ -1,0 +1,5 @@
+C:\Users\User01\Downloads\OutSystems\ExternalDB_AWS_MSSQL_Test\Source\NET\bin\OutSystems.NssExternalDB_AWS_MSSQL_Test.dll
+C:\Users\User01\Downloads\OutSystems\ExternalDB_AWS_MSSQL_Test\Source\NET\bin\OutSystems.NssExternalDB_AWS_MSSQL_Test.xml
+C:\Users\User01\Downloads\OutSystems\ExternalDB_AWS_MSSQL_Test\Source\NET\obj\Release\ExternalDB_AWS_MSSQL_Test.csprojAssemblyReference.cache
+C:\Users\User01\Downloads\OutSystems\ExternalDB_AWS_MSSQL_Test\Source\NET\obj\Release\ExternalDB_AWS_MSSQL_Test.csproj.CoreCompileInputs.cache
+C:\Users\User01\Downloads\OutSystems\ExternalDB_AWS_MSSQL_Test\Source\NET\obj\Release\OutSystems.NssExternalDB_AWS_MSSQL_Test.dll

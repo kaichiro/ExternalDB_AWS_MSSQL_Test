@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutSystems.NssExternalDB_AWS_MSSQL_Test</name>
+    </assembly>
+    <members>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.CssExternalDB_AWS_MSSQL_Test.MssMaxRecords(System.Int32@)">
+            <summary>
+            Retorna a quantidade máxima de registros para um Aggregate ou SQL Advanced
+            </summary>
+            <param name="ssCount">Retorna um inteiro cujo valor é 99.999</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.IssExternalDB_AWS_MSSQL_Test.MssMaxRecords(System.Int32@)">
+            <summary>
+            Retorna a quantidade máxima de registros para um Aggregate ou SQL Advanced
+            </summary>
+            <param name="ssCount">Retorna um inteiro cujo valor é 99.999</param>
+        </member>
+        <member name="T:OutSystems.NssExternalDB_AWS_MSSQL_Test.STStruct_TypeTableStructure">
+            <summary>
+            Structure <code>STStruct_TypeTableStructure</code> that represents the Service Studio structure
+             <code>Struct_TypeTable</code> <p> Description: Estrutura para a tabela de tipos de tabela</p>
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.STStruct_TypeTableStructure.Read(System.Data.IDataReader,System.Int32@)">
+            <summary>
+            Read a record from database
+            </summary>
+            <param name="r"> Data base reader</param>
+            <param name="index"> index</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.STStruct_TypeTableStructure.ReadDB(System.Data.IDataReader)">
+            <summary>
+            Read from database
+            </summary>
+            <param name="r"> Data reader</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.STStruct_TypeTableStructure.ReadIM(OutSystems.NssExternalDB_AWS_MSSQL_Test.STStruct_TypeTableStructure)">
+            <summary>
+            Read from record
+            </summary>
+            <param name="r"> Record</param>
+        </member>
+        <member name="T:OutSystems.NssExternalDB_AWS_MSSQL_Test.ENTypeTableEntityRecord">
+            <summary>
+            Entity <code>ENTypeTableEntityRecord</code> that represents the Service Studio entity
+             <code>TypeTable</code> <p> Description: Repositório para os nomes das tabelas</p>
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.ENTypeTableEntityRecord.Read(System.Data.IDataReader,System.Int32@)">
+            <summary>
+            Read a record from database
+            </summary>
+            <param name="r"> Data base reader</param>
+            <param name="index"> index</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.ENTypeTableEntityRecord.ReadDB(System.Data.IDataReader)">
+            <summary>
+            Read from database
+            </summary>
+            <param name="r"> Data reader</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.ENTypeTableEntityRecord.ReadIM(OutSystems.NssExternalDB_AWS_MSSQL_Test.ENTypeTableEntityRecord)">
+            <summary>
+            Read from record
+            </summary>
+            <param name="r"> Record</param>
+        </member>
+        <member name="T:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCTypeTableRecord">
+            <summary>
+            Structure <code>RCTypeTableRecord</code>
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCTypeTableRecord.Read(System.Data.IDataReader,System.Int32@)">
+            <summary>
+            Read a record from database
+            </summary>
+            <param name="r"> Data base reader</param>
+            <param name="index"> index</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCTypeTableRecord.ReadDB(System.Data.IDataReader)">
+            <summary>
+            Read from database
+            </summary>
+            <param name="r"> Data reader</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCTypeTableRecord.ReadIM(OutSystems.NssExternalDB_AWS_MSSQL_Test.RCTypeTableRecord)">
+            <summary>
+            Read from record
+            </summary>
+            <param name="r"> Record</param>
+        </member>
+        <member name="T:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCStruct_TypeTableRecord">
+            <summary>
+            Structure <code>RCStruct_TypeTableRecord</code>
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCStruct_TypeTableRecord.Read(System.Data.IDataReader,System.Int32@)">
+            <summary>
+            Read a record from database
+            </summary>
+            <param name="r"> Data base reader</param>
+            <param name="index"> index</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCStruct_TypeTableRecord.ReadDB(System.Data.IDataReader)">
+            <summary>
+            Read from database
+            </summary>
+            <param name="r"> Data reader</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RCStruct_TypeTableRecord.ReadIM(OutSystems.NssExternalDB_AWS_MSSQL_Test.RCStruct_TypeTableRecord)">
+            <summary>
+            Read from record
+            </summary>
+            <param name="r"> Record</param>
+        </member>
+        <member name="T:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLTypeTableRecordList">
+            <summary>
+            RecordList type <code>RLTypeTableRecordList</code> that represents a record list of
+             <code>TypeTable</code>
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLTypeTableRecordList.#ctor">
+            <summary>
+            Default Constructor
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLTypeTableRecordList.#ctor(System.Data.IDbTransaction)">
+            <summary>
+            Constructor with transaction parameter
+            </summary>
+            <param name="trans"> IDbTransaction Parameter</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLTypeTableRecordList.#ctor(System.Data.IDbTransaction,OutSystems.HubEdition.RuntimePlatform.Db.OSList{OutSystems.NssExternalDB_AWS_MSSQL_Test.RCTypeTableRecord}.ReadDBMethodDelegate)">
+            <summary>
+            Constructor with transaction parameter and alternate read method
+            </summary>
+            <param name="trans"> IDbTransaction Parameter</param>
+            <param name="alternateReadDBMethod"> Alternate Read Method</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLTypeTableRecordList.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Constructor declaration for serialization
+            </summary>
+            <param name="info"> SerializationInfo</param>
+            <param name="context"> StreamingContext</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLTypeTableRecordList.NewList">
+            <summary>
+            Create as new list
+            </summary>
+            <returns>The new record list</returns>
+        </member>
+        <member name="T:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLStruct_TypeTableRecordList">
+            <summary>
+            RecordList type <code>RLStruct_TypeTableRecordList</code> that represents a record list of
+             <code>Struct_TypeTable</code>
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLStruct_TypeTableRecordList.#ctor">
+            <summary>
+            Default Constructor
+            </summary>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLStruct_TypeTableRecordList.#ctor(System.Data.IDbTransaction)">
+            <summary>
+            Constructor with transaction parameter
+            </summary>
+            <param name="trans"> IDbTransaction Parameter</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLStruct_TypeTableRecordList.#ctor(System.Data.IDbTransaction,OutSystems.HubEdition.RuntimePlatform.Db.OSList{OutSystems.NssExternalDB_AWS_MSSQL_Test.RCStruct_TypeTableRecord}.ReadDBMethodDelegate)">
+            <summary>
+            Constructor with transaction parameter and alternate read method
+            </summary>
+            <param name="trans"> IDbTransaction Parameter</param>
+            <param name="alternateReadDBMethod"> Alternate Read Method</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLStruct_TypeTableRecordList.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Constructor declaration for serialization
+            </summary>
+            <param name="info"> SerializationInfo</param>
+            <param name="context"> StreamingContext</param>
+        </member>
+        <member name="M:OutSystems.NssExternalDB_AWS_MSSQL_Test.RLStruct_TypeTableRecordList.NewList">
+            <summary>
+            Create as new list
+            </summary>
+            <returns>The new record list</returns>
+        </member>
+    </members>
+</doc>
